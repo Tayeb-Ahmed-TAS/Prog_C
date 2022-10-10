@@ -33,7 +33,7 @@ int main()
         sd = sd + pow(arr[i] - mean, 2);
     }
 
-    sd = sqrt(sd / 5);
+    sd = sqrt(sd / n);
 
     printf("\nStandard Deviation of %d items = %.3f", n, sd);
 
