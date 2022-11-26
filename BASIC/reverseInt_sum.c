@@ -32,7 +32,5 @@ int main()
 
     printf("Sum of the digits is %d", s);
 
-    while (n != 0)
-
         return 0;
 }
