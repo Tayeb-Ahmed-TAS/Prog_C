@@ -34,8 +34,7 @@ int main()
 
             // ? To clear buffer ;
 
-            while (getchar() != '\n')
-                ;
+            while (getchar() != '\n');
 
             gets(name);
 
