@@ -9,11 +9,5 @@ Haji Abul Hossain Institute of Technology, Tangail
 Bangladesh
 
   <div>
-  <a href="https://www.facebook.com/tayeb.tas.13913">
-  <img src="https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" />
-  </a>
-
-  <a href="mailto:tayebkpj@gmail.com">
-  <img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" />
-  </a>
+<a href="https://fb.com/tayeb.tas.13913" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tayeb.tas.13913" height="30" width="40" /></a>  <a href="mailto:tayeb.pspt@gmail.com" target="_blank"><img align="center" src="https://github.com/Tayeb-Ahmed-TAS/Images/blob/main/icons8-gmail-logo-144.png" alt="tayeb.pspt@gmail.com" height="30" width="40" /></a>  
   </div>
